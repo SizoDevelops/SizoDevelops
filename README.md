@@ -40,16 +40,4 @@ I really want to talk about myself. Hi! have you met me? :computer: :smile:
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-## Stats: 
-<!-- <a href="https://github.com/SizoDevelops/github-readme-stats" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SizoDevelops&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04a3ff&currStreakNum=04a3ff&currStreakLabel=04a3ff&sideLabels=04a3ff&sideNums=04a3ff&fire=04a3ff" width="390px" />  
-</a> -->
-<a href="https://github.com/SizoDevelops/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SizoDevelops&theme=blue-green&hide=stars&show_icons=true&icon_color=04a3ff&text_color=04a3ff&bg_color=000&hide_border=true&line_height=30" width="390px"/></a>
-  
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SizoDevelops&bg_color=000&hide_border=true&layout=compact)
-
-
 ## I HOPE YOU ARE HAVING A GREAT DAY :blush: :fire:
