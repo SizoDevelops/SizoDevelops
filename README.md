@@ -1,4 +1,4 @@
-[![HeaderImage](https://i.ibb.co/gyGdncZ/GitHub.png)](https://github.com/SizoDevelops)
+[![HeaderImage](https://i.ibb.co/nswNMnc/githubheader.png)](https://github.com/SizoDevelops)
 
 ## About Me:
 I really want to talk about myself. Hi! have you met me? :computer: :smile:
