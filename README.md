@@ -7,7 +7,7 @@
 
 # Also check out
 
-## [LinkedIn](https://www.linkedin.com/in/sizo-dev/)
+## <a href="https://www.linkedin.com/in/sizo-dev/" target="_blank">LinkedIn</a>
 
-## [Google Play Store](https://play.google.com/store/apps/dev?id=6161771705630251284)
+## <a href="https://play.google.com/store/apps/dev?id=6161771705630251284" target="_blank">Google Play Store</a>
 
