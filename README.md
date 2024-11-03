@@ -5,7 +5,7 @@
 
 🌟 As an innovator at heart, I thrive on turning ideas into impactful software solutions. From concept to code, I create with a touch of magic.
 
-💡 My mission is to revolutionize the digital landscape, one elegant line of code at a time. I embrace challenges and transform them into opportunities.
+💡 My mission is to revolutionize the digital landscape. I embrace challenges and transform them into opportunities.
 
 🌐 I'm proficient in a versatile tech stack including React, Node.js, Python, and more, always staying at the forefront of technology.
 
