@@ -20,7 +20,7 @@
 
 # Also check out
 
-## <a href="https://www.linkedin.com/in/sizo-dev/" target="_blank">LinkedIn</a>
+## <a href="https://www.linkedin.com/in/sizo-develops/" target="_blank">LinkedIn</a>
 
 ## <a href="https://play.google.com/store/apps/dev?id=6161771705630251284" target="_blank">Google Play Store</a>
 
